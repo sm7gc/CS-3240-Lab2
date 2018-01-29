@@ -3,7 +3,7 @@ Lab 2 for Sanjana Mendu (sm7gc)
 
 Activity 1: 
 
-Pre-lab + Activity 5repo: https://github.com/sm7gc/hello-world
+Pre-lab + Activity 5 repo: https://github.com/sm7gc/hello-world
 
 Activity 3: 
 
